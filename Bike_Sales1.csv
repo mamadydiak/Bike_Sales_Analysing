@@ -1,0 +1,951 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+11/26/2013,26,November,2013,19,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+11/26/2015,26,November,2015,19,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+3/23/2014,23,March,2014,49,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1366,1035,2401
+3/23/2016,23,March,2016,49,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45,120,1188,900,2088
+5/15/2014,15,May,2014,47,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+5/15/2016,15,May,2016,47,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,522
+5/22/2014,22,May,2014,47,Adults (35-64),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,199,180,379
+5/22/2016,22,May,2016,47,Adults (35-64),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,100,90,190
+2/22/2014,22,February,2014,35,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1096,990,2086
+2/22/2016,22,February,2016,35,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45,120,1046,945,1991
+7/30/2013,30,July,2013,32,Young Adults (25-34),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,398,360,758
+7/30/2015,30,July,2015,32,Young Adults (25-34),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,398,360,758
+7/15/2013,15,July,2013,34,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,349,315,664
+7/15/2015,15,July,2015,34,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,349,315,664
+8/2/2013,2,August,2013,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+8/2/2015,2,August,2015,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+9/2/2013,2,September,2013,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+9/2/2015,2,September,2015,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+1/22/2014,22,January,2014,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+1/22/2016,22,January,2016,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+5/17/2014,17,May,2014,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+5/17/2016,17,May,2016,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+3/27/2014,27,March,2014,51,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,524,405,929
+3/27/2016,27,March,2016,51,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+8/25/2013,25,August,2013,49,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+8/25/2015,25,August,2015,49,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+12/26/2013,26,December,2013,49,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+12/26/2015,26,December,2015,49,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+1/2/2014,2,January,2014,48,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,295,180,475
+1/2/2016,2,January,2016,48,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,295,180,475
+3/13/2014,13,March,2014,48,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45,120,1476,900,2376
+3/13/2016,13,March,2016,48,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+5/23/2014,23,May,2014,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,24,45,120,1771,1080,2851
+5/23/2016,23,May,2016,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1697,1035,2732
+7/19/2013,19,July,2013,32,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,524,405,929
+7/19/2015,19,July,2015,32,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,524,405,929
+11/11/2013,11,November,2013,34,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45,120,1845,1125,2970
+11/11/2015,11,November,2015,34,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1697,1035,2732
+7/13/2013,13,July,2013,43,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+7/13/2015,13,July,2015,43,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+3/31/2014,31,March,2014,43,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,799,495,1294
+3/31/2016,31,March,2016,43,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,799,495,1294
+8/28/2013,28,August,2013,61,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+8/28/2015,28,August,2015,61,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+8/27/2013,27,August,2013,57,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+8/27/2015,27,August,2015,57,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+11/17/2013,17,November,2013,29,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,886,540,1426
+11/17/2015,17,November,2015,29,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45,120,1033,630,1663
+8/7/2013,7,August,2013,38,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,160,135,295
+8/7/2015,7,August,2015,38,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,53,45,98
+7/15/2013,15,July,2013,52,Adults (35-64),Female,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,427,360,787
+7/15/2015,15,July,2015,52,Adults (35-64),Female,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,427,360,787
+8/17/2013,17,August,2013,43,Adults (35-64),Female,France,Moselle,Accessories,Bike Racks,Hitch Rack - 4-Bike,28,45,120,1697,1260,2957
+8/17/2015,17,August,2015,43,Adults (35-64),Female,France,Moselle,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1636,1215,2851
+7/17/2013,17,July,2013,24,Youth (<25),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+7/17/2015,17,July,2015,24,Youth (<25),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,335,270,605
+12/31/2013,31,December,2013,23,Youth (<25),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+12/31/2015,31,December,2015,23,Youth (<25),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+9/17/2013,17,September,2013,29,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1053,675,1728
+9/17/2015,17,September,2015,29,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1053,675,1728
+9/24/2013,24,September,2013,32,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,356,270,626
+9/24/2015,24,September,2015,32,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+9/25/2013,25,September,2013,19,Youth (<25),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,320,270,590
+9/25/2015,25,September,2015,19,Youth (<25),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,427,360,787
+11/26/2013,26,November,2013,26,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+11/26/2015,26,November,2015,26,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+8/3/2013,3,August,2013,35,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+8/3/2015,3,August,2015,35,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+6/19/2014,19,June,2014,35,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+6/19/2016,19,June,2016,35,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,886,540,1426
+3/4/2014,4,March,2014,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+3/4/2016,4,March,2016,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+5/30/2014,30,May,2014,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+5/30/2016,30,May,2016,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+6/28/2014,28,June,2014,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+6/28/2016,28,June,2016,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+7/10/2014,10,July,2014,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,944,585,1529
+7/10/2016,10,July,2016,38,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,871,540,1411
+3/12/2014,12,March,2014,54,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,391,315,706
+3/12/2016,12,March,2016,54,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,335,270,605
+9/3/2013,3,September,2013,51,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+9/3/2015,3,September,2015,51,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+3/26/2014,26,March,2014,47,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+3/26/2016,26,March,2016,47,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+5/4/2014,4,May,2014,47,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1234,765,1999
+5/4/2016,4,May,2016,47,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,1162,720,1882
+2/4/2014,4,February,2014,46,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+2/4/2016,4,February,2016,46,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,146,135,281
+11/6/2013,6,November,2013,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+11/6/2015,6,November,2015,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+2/12/2014,12,February,2014,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,2178,1350,3528
+2/12/2016,12,February,2016,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1960,1215,3175
+5/17/2014,17,May,2014,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+5/17/2016,17,May,2016,46,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+9/23/2013,23,September,2013,41,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,28,45,120,1865,1260,3125
+9/23/2015,23,September,2015,41,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,29,45,120,1931,1305,3236
+9/20/2013,20,September,2013,32,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,146,135,281
+9/20/2015,20,September,2015,32,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+10/25/2013,25,October,2013,32,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+10/25/2015,25,October,2015,32,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+5/11/2014,11,May,2014,32,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1888,1170,3058
+5/11/2016,11,May,2016,32,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1960,1215,3175
+9/29/2013,29,September,2013,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+9/29/2015,29,September,2015,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+5/16/2014,16,May,2014,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1107,675,1782
+5/16/2016,16,May,2016,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1107,675,1782
+5/23/2014,23,May,2014,42,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+5/23/2016,23,May,2016,42,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+8/6/2013,6,August,2013,42,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,989,765,1754
+8/6/2015,6,August,2015,42,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,931,720,1651
+10/14/2013,14,October,2013,43,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+10/14/2015,14,October,2015,43,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+12/6/2013,6,December,2013,43,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+12/6/2015,6,December,2015,43,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+12/18/2013,18,December,2013,45,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,146,135,281
+12/18/2015,18,December,2015,45,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+9/13/2013,13,September,2013,53,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,281,180,461
+9/13/2015,13,September,2015,53,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+10/27/2013,27,October,2013,21,Youth (<25),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,149,135,284
+10/27/2015,27,October,2015,21,Youth (<25),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,50,45,95
+1/2/2014,2,January,2014,34,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,522
+1/2/2016,2,January,2016,34,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+5/10/2014,10,May,2014,22,Youth (<25),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+5/10/2016,10,May,2016,22,Youth (<25),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+4/27/2014,27,April,2014,67,Seniors (64+),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+4/27/2016,27,April,2016,67,Seniors (64+),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+12/22/2013,22,December,2013,31,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,146,135,281
+12/22/2015,22,December,2015,31,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,243,225,468
+11/28/2013,28,November,2013,31,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,698,540,1238
+11/28/2015,28,November,2015,31,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,698,540,1238
+7/28/2014,28,July,2014,37,Adults (35-64),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+7/28/2016,28,July,2016,37,Adults (35-64),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+4/13/2014,13,April,2014,26,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,279,225,504
+4/13/2016,13,April,2016,26,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,391,315,706
+2/19/2014,19,February,2014,87,Seniors (64+),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,107,90,197
+2/19/2016,19,February,2016,87,Seniors (64+),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,160,135,295
+12/9/2013,9,December,2013,25,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,119,90,209
+12/9/2015,9,December,2015,25,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+5/17/2014,17,May,2014,31,Young Adults (25-34),Female,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,200,135,335
+5/17/2016,17,May,2016,31,Young Adults (25-34),Female,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,133,90,223
+6/6/2014,6,June,2014,32,Young Adults (25-34),Female,France,Loir et Cher,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,309,225,534
+6/6/2016,6,June,2016,32,Young Adults (25-34),Female,France,Loir et Cher,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,433,315,748
+8/18/2013,18,August,2013,25,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+8/18/2015,18,August,2015,25,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+9/20/2013,20,September,2013,26,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+9/20/2015,20,September,2015,26,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+12/29/2013,29,December,2013,26,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,243,225,468
+12/29/2015,29,December,2015,26,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+3/30/2014,30,March,2014,33,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,446,360,806
+3/30/2016,30,March,2016,33,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,446,360,806
+11/9/2013,9,November,2013,29,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+11/9/2015,9,November,2015,29,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,466,360,826
+12/31/2013,31,December,2013,24,Youth (<25),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,291,225,516
+12/31/2015,31,December,2015,24,Youth (<25),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+8/30/2013,30,August,2013,31,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+8/30/2015,30,August,2015,31,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+11/4/2013,4,November,2013,40,Adults (35-64),Male,United States,Kentucky,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,63,45,108
+11/4/2015,4,November,2015,40,Adults (35-64),Male,United States,Kentucky,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,63,45,108
+1/31/2014,31,January,2014,44,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,594,450,1044
+1/31/2016,31,January,2016,44,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,713,540,1253
+5/28/2014,28,May,2014,44,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+5/28/2016,28,May,2016,44,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,356,270,626
+9/7/2013,7,September,2013,21,Youth (<25),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+9/7/2015,7,September,2015,21,Youth (<25),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+4/17/2014,17,April,2014,25,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+4/17/2016,17,April,2016,25,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+9/29/2013,29,September,2013,25,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+9/29/2015,29,September,2015,25,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+7/31/2013,31,July,2013,29,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45,120,1815,1125,2940
+7/31/2015,31,July,2015,29,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1597,990,2587
+8/3/2013,3,August,2013,29,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,799,495,1294
+8/3/2015,3,August,2015,29,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,799,495,1294
+2/27/2014,27,February,2014,55,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+2/27/2016,27,February,2016,55,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+9/13/2013,13,September,2013,55,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,194,180,374
+9/13/2015,13,September,2015,55,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+6/8/2014,8,June,2014,55,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+6/8/2016,8,June,2016,55,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+6/5/2014,5,June,2014,55,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,873,675,1548
+6/5/2016,5,June,2016,55,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,873,675,1548
+12/15/2013,15,December,2013,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+12/15/2015,15,December,2015,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+1/17/2014,17,January,2014,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,2178,1350,3528
+1/17/2016,17,January,2016,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,29,45,120,2105,1305,3410
+5/7/2014,7,May,2014,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+5/7/2016,7,May,2016,53,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+11/10/2013,10,November,2013,50,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+11/10/2015,10,November,2015,50,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+8/19/2013,19,August,2013,55,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,871,540,1411
+8/19/2015,19,August,2015,55,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+9/18/2013,18,September,2013,55,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+9/18/2015,18,September,2015,55,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+12/14/2013,14,December,2013,59,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,1458,1350,2808
+12/14/2015,14,December,2015,59,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,1458,1350,2808
+1/1/2014,1,January,2014,24,Youth (<25),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,475,360,835
+1/1/2016,1,January,2016,24,Youth (<25),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,356,270,626
+3/1/2014,1,March,2014,24,Youth (<25),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,100,90,190
+3/1/2016,1,March,2016,24,Youth (<25),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,199,180,379
+6/12/2014,12,June,2014,26,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+6/12/2016,12,June,2016,26,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+12/23/2013,23,December,2013,26,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,299,270,569
+12/23/2015,23,December,2015,26,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,349,315,664
+7/31/2014,31,July,2014,23,Youth (<25),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1388,1170,2558
+7/31/2016,31,July,2016,23,Youth (<25),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1228,1035,2263
+5/11/2014,11,May,2014,17,Youth (<25),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+5/11/2016,11,May,2016,17,Youth (<25),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,562,360,922
+6/18/2014,18,June,2014,17,Youth (<25),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+6/18/2016,18,June,2016,17,Youth (<25),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+4/20/2014,20,April,2014,31,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,281,180,461
+4/20/2016,20,April,2016,31,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+12/5/2013,5,December,2013,32,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+12/5/2015,5,December,2015,32,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,389,360,749
+6/11/2014,11,June,2014,37,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1402,855,2257
+6/11/2016,11,June,2016,37,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1255,765,2020
+4/24/2014,24,April,2014,49,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,149,135,284
+4/24/2016,24,April,2016,49,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,199,180,379
+2/7/2014,7,February,2014,42,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,398,360,758
+2/7/2016,7,February,2016,42,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,299,270,569
+12/3/2013,3,December,2013,35,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,56,45,101
+12/3/2015,3,December,2015,35,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,56,45,101
+3/24/2014,24,March,2014,27,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+3/24/2016,24,March,2016,27,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,211,135,346
+4/7/2014,7,April,2014,27,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+4/7/2016,7,April,2016,27,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+6/6/2014,6,June,2014,28,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,475,360,835
+6/6/2016,6,June,2016,28,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,522
+12/19/2013,19,December,2013,45,Adults (35-64),Female,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45,120,1121,945,2066
+12/19/2015,19,December,2015,45,Adults (35-64),Female,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1175,990,2165
+7/12/2014,12,July,2014,50,Adults (35-64),Male,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1798,1215,3013
+7/12/2016,12,July,2016,50,Adults (35-64),Male,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1732,1170,2902
+3/21/2014,21,March,2014,36,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+3/21/2016,21,March,2016,36,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+11/27/2013,27,November,2013,44,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+11/27/2015,27,November,2015,44,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+6/15/2014,15,June,2014,44,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1234,765,1999
+6/15/2016,15,June,2016,44,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1379,855,2234
+5/4/2014,4,May,2014,42,Adults (35-64),Female,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,950,720,1670
+5/4/2016,4,May,2016,42,Adults (35-64),Female,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1010,765,1775
+8/20/2013,20,August,2013,29,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,175,135,310
+8/20/2015,20,August,2015,29,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,175,135,310
+9/4/2013,4,September,2013,29,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1571,1215,2786
+9/4/2015,4,September,2015,29,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,24,45,120,1397,1080,2477
+1/19/2014,19,January,2014,29,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+1/19/2016,19,January,2016,29,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+1/7/2014,7,January,2014,31,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,29,45,120,2140,1305,3445
+1/7/2016,7,January,2016,31,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,30,45,120,2214,1350,3564
+12/31/2013,31,December,2013,29,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,713,540,1253
+12/31/2015,31,December,2015,29,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,772,585,1357
+1/16/2014,16,January,2014,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+1/16/2016,16,January,2016,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+2/18/2014,18,February,2014,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+2/18/2016,18,February,2016,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+3/2/2014,2,March,2014,41,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+3/2/2016,2,March,2016,41,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+7/15/2013,15,July,2013,32,Young Adults (25-34),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,333,225,558
+7/15/2015,15,July,2015,32,Young Adults (25-34),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,133,90,223
+6/6/2014,6,June,2014,32,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+6/6/2016,6,June,2016,32,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+10/9/2013,9,October,2013,32,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,594,450,1044
+10/9/2015,9,October,2015,32,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,713,540,1253
+12/11/2013,11,December,2013,35,Adults (35-64),Male,France,Loiret,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,618,450,1068
+12/11/2015,11,December,2015,35,Adults (35-64),Male,France,Loiret,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,742,540,1282
+5/20/2014,20,May,2014,53,Adults (35-64),Female,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,53,45,98
+5/20/2016,20,May,2016,53,Adults (35-64),Female,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,107,90,197
+9/27/2013,27,September,2013,56,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+9/27/2015,27,September,2015,56,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+12/17/2013,17,December,2013,24,Youth (<25),Female,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,300,180,480
+12/17/2015,17,December,2015,24,Youth (<25),Female,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,450,270,720
+2/20/2014,20,February,2014,35,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+2/20/2016,20,February,2016,35,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,535,405,940
+8/26/2013,26,August,2013,27,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+8/26/2015,26,August,2015,27,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+8/3/2013,3,August,2013,31,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+8/3/2015,3,August,2015,31,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,886,540,1426
+11/28/2013,28,November,2013,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+11/28/2015,28,November,2015,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+11/19/2013,19,November,2013,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,594,450,1044
+11/19/2015,19,November,2015,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,535,405,940
+12/8/2013,8,December,2013,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+12/8/2015,8,December,2015,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+4/27/2014,27,April,2014,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+4/27/2016,27,April,2016,28,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+5/17/2014,17,May,2014,27,Young Adults (25-34),Male,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1132,765,1897
+5/17/2016,17,May,2016,27,Young Adults (25-34),Male,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45,120,932,630,1562
+5/24/2014,24,May,2014,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+5/24/2016,24,May,2016,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+5/16/2014,16,May,2014,58,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,534,450,984
+5/16/2016,16,May,2016,58,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,427,360,787
+8/14/2013,14,August,2013,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,1234,765,1999
+8/14/2015,14,August,2015,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45,120,1016,630,1646
+10/25/2013,25,October,2013,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+10/25/2015,25,October,2015,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+11/15/2013,15,November,2013,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+11/15/2015,15,November,2015,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+3/13/2014,13,March,2014,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+3/13/2016,13,March,2016,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+4/14/2014,14,April,2014,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+4/14/2016,14,April,2016,30,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+9/17/2013,17,September,2013,52,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,194,180,374
+9/17/2015,17,September,2015,52,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,194,180,374
+1/20/2014,20,January,2014,51,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+1/20/2016,20,January,2016,51,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+9/9/2013,9,September,2013,47,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+9/9/2015,9,September,2015,47,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,812,495,1307
+9/28/2013,28,September,2013,45,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+9/28/2015,28,September,2015,45,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+9/2/2013,2,September,2013,33,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+9/2/2015,2,September,2015,33,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+9/21/2013,21,September,2013,33,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+9/21/2015,21,September,2015,33,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+3/2/2014,2,March,2014,33,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+3/2/2016,2,March,2016,33,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+11/5/2013,5,November,2013,37,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+11/5/2015,5,November,2015,37,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+9/19/2013,19,September,2013,59,Adults (35-64),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+9/19/2015,19,September,2015,59,Adults (35-64),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+7/31/2014,31,July,2014,31,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,391,315,706
+7/31/2016,31,July,2016,31,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,335,270,605
+3/1/2014,1,March,2014,31,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+3/1/2016,1,March,2016,31,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,291,225,516
+7/29/2014,29,July,2014,18,Youth (<25),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,533,360,893
+7/29/2016,29,July,2016,18,Youth (<25),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,666,450,1116
+5/14/2014,14,May,2014,42,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,295,180,475
+5/14/2016,14,May,2016,42,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+11/8/2013,8,November,2013,32,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+11/8/2015,8,November,2015,32,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,160,135,295
+1/26/2014,26,January,2014,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1825,1170,2995
+1/26/2016,26,January,2016,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,28,45,120,1966,1260,3226
+5/6/2014,6,May,2014,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+5/6/2016,6,May,2016,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+2/14/2014,14,February,2014,21,Youth (<25),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+2/14/2016,14,February,2016,21,Youth (<25),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+11/22/2013,22,November,2013,28,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,632,405,1037
+11/22/2015,22,November,2015,28,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+8/28/2013,28,August,2013,53,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+8/28/2015,28,August,2015,53,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+9/6/2013,6,September,2013,45,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,11,45,120,812,495,1307
+9/6/2015,6,September,2015,45,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+6/11/2014,11,June,2014,45,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1919,1170,3089
+6/11/2016,11,June,2016,45,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1993,1215,3208
+11/24/2013,24,November,2013,59,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+11/24/2015,24,November,2015,59,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+6/28/2014,28,June,2014,40,Adults (35-64),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1366,1035,2401
+6/28/2016,28,June,2016,40,Adults (35-64),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45,120,1485,1125,2610
+5/20/2014,20,May,2014,27,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+5/20/2016,20,May,2016,27,Young Adults (25-34),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+10/18/2013,18,October,2013,30,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+10/18/2015,18,October,2015,30,Young Adults (25-34),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+2/14/2014,14,February,2014,32,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+2/14/2016,14,February,2016,32,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+12/27/2013,27,December,2013,33,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,175,135,310
+12/27/2015,27,December,2015,33,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,233,180,413
+2/21/2014,21,February,2014,33,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,233,180,413
+2/21/2016,21,February,2016,33,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+9/5/2013,5,September,2013,48,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+9/5/2015,5,September,2015,48,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+5/9/2014,9,May,2014,48,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+5/9/2016,9,May,2016,48,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+5/6/2014,6,May,2014,46,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,944,585,1529
+5/6/2016,6,May,2016,46,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,726,450,1176
+5/2/2014,2,May,2014,34,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+5/2/2016,2,May,2016,34,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,335,270,605
+9/8/2013,8,September,2013,19,Youth (<25),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,582,450,1032
+9/8/2015,8,September,2015,19,Youth (<25),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+2/1/2014,1,February,2014,34,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+2/1/2016,1,February,2016,34,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+12/15/2013,15,December,2013,62,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,243,225,468
+12/15/2015,15,December,2015,62,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+4/22/2014,22,April,2014,45,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,349,315,664
+4/22/2016,22,April,2016,45,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,199,180,379
+1/10/2014,10,January,2014,45,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+1/10/2016,10,January,2016,45,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,446,360,806
+7/15/2013,15,July,2013,41,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,558,450,1008
+7/15/2015,15,July,2015,41,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,502,405,907
+5/8/2014,8,May,2014,35,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,18,45,120,1307,810,2117
+5/8/2016,8,May,2016,35,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1089,675,1764
+8/16/2013,16,August,2013,25,Young Adults (25-34),Male,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,200,135,335
+8/16/2015,16,August,2015,25,Young Adults (25-34),Male,Germany,Hamburg,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,333,225,558
+10/10/2013,10,October,2013,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+10/10/2015,10,October,2015,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+12/30/2013,30,December,2013,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+12/30/2015,30,December,2015,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+4/29/2014,29,April,2014,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+4/29/2016,29,April,2016,40,Adults (35-64),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,49,45,94
+7/18/2014,18,July,2014,40,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+7/18/2016,18,July,2016,40,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+10/21/2013,21,October,2013,38,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,211,135,346
+10/21/2015,21,October,2015,38,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+6/10/2014,10,June,2014,29,Young Adults (25-34),Female,France,Hauts de Seine,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,133,90,223
+6/10/2016,10,June,2016,29,Young Adults (25-34),Female,France,Hauts de Seine,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,133,90,223
+3/10/2014,10,March,2014,29,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,53,45,98
+3/10/2016,10,March,2016,29,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,107,90,197
+5/3/2014,3,May,2014,51,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,871,540,1411
+5/3/2016,3,May,2016,51,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,14,45,120,1016,630,1646
+4/27/2014,27,April,2014,44,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+4/27/2016,27,April,2016,44,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+4/20/2014,20,April,2014,39,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+4/20/2016,20,April,2016,39,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,74,45,119
+10/23/2013,23,October,2013,38,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,223,180,403
+10/23/2015,23,October,2015,38,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,112,90,202
+9/11/2013,11,September,2013,19,Youth (<25),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,194,180,374
+9/11/2015,11,September,2015,19,Youth (<25),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,243,225,468
+6/25/2014,25,June,2014,62,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,25,45,120,1815,1125,2940
+6/25/2016,25,June,2016,62,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1597,990,2587
+5/22/2014,22,May,2014,37,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+5/22/2016,22,May,2016,37,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+6/9/2014,9,June,2014,37,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+6/9/2016,9,June,2016,37,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+3/10/2014,10,March,2014,43,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+3/10/2016,10,March,2016,43,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+9/26/2013,26,September,2013,45,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,243,225,468
+9/26/2015,26,September,2015,45,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+4/17/2014,17,April,2014,26,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1615,1035,2650
+4/17/2016,17,April,2016,26,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1544,990,2534
+5/15/2014,15,May,2014,26,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,281,180,461
+5/15/2016,15,May,2016,26,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+2/1/2014,1,February,2014,35,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,133,90,223
+2/1/2016,1,February,2016,35,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,67,45,112
+4/29/2014,29,April,2014,29,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+4/29/2016,29,April,2016,29,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+9/11/2013,11,September,2013,39,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+9/11/2015,11,September,2015,39,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+7/10/2014,10,July,2014,39,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+7/10/2016,10,July,2016,39,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+12/29/2013,29,December,2013,17,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+12/29/2015,29,December,2015,17,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+6/26/2014,26,June,2014,61,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+6/26/2016,26,June,2016,61,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+3/28/2014,28,March,2014,54,Adults (35-64),Female,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,525,315,840
+3/28/2016,28,March,2016,54,Adults (35-64),Female,Canada,Alberta,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,375,225,600
+6/28/2014,28,June,2014,48,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+6/28/2016,28,June,2016,48,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,281,180,461
+2/26/2014,26,February,2014,24,Youth (<25),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,448,405,853
+2/26/2016,26,February,2016,24,Youth (<25),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,498,450,948
+7/29/2014,29,July,2014,35,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1334,855,2189
+7/29/2016,29,July,2016,35,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,1123,720,1843
+7/14/2014,14,July,2014,49,Adults (35-64),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,908,765,1673
+7/14/2016,14,July,2016,49,Adults (35-64),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,17,45,120,908,765,1673
+11/19/2013,19,November,2013,19,Youth (<25),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+11/19/2015,19,November,2015,19,Youth (<25),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+4/6/2014,6,April,2014,42,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+4/6/2016,6,April,2016,42,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,491,315,806
+6/21/2014,21,June,2014,42,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,23,45,120,1615,1035,2650
+6/21/2016,21,June,2016,42,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,24,45,120,1685,1080,2765
+5/22/2014,22,May,2014,44,Adults (35-64),Female,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,185,180,365
+5/22/2016,22,May,2016,44,Adults (35-64),Female,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,92,90,182
+5/4/2014,4,May,2014,45,Adults (35-64),Female,France,Hauts de Seine,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,666,450,1116
+5/4/2016,4,May,2016,45,Adults (35-64),Female,France,Hauts de Seine,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,466,315,781
+12/7/2013,7,December,2013,27,Young Adults (25-34),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,21,45,120,1121,945,2066
+12/7/2015,7,December,2015,27,Young Adults (25-34),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1175,990,2165
+8/25/2013,25,August,2013,22,Youth (<25),Male,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,92,90,182
+8/25/2015,25,August,2015,22,Youth (<25),Male,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,92,90,182
+10/1/2013,1,October,2013,23,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,211,135,346
+10/1/2015,1,October,2015,23,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+1/3/2014,3,January,2014,58,Adults (35-64),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,214,180,394
+1/3/2016,3,January,2016,58,Adults (35-64),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,320,270,590
+10/26/2013,26,October,2013,18,Youth (<25),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,481,405,886
+10/26/2015,26,October,2015,18,Youth (<25),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,534,450,984
+10/13/2013,13,October,2013,23,Youth (<25),Female,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+10/13/2015,13,October,2015,23,Youth (<25),Female,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,535,405,940
+11/24/2013,24,November,2013,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,594,450,1044
+11/24/2015,24,November,2015,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,713,540,1253
+11/25/2013,25,November,2013,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,522
+11/25/2015,25,November,2015,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+5/2/2014,2,May,2014,52,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,738,450,1188
+5/2/2016,2,May,2016,52,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+3/9/2014,9,March,2014,47,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+3/9/2016,9,March,2016,47,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+3/14/2014,14,March,2014,25,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,297,225,522
+3/14/2016,14,March,2016,25,Young Adults (25-34),Male,France,Nord,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,178,135,313
+12/1/2013,1,December,2013,49,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+12/1/2015,1,December,2015,49,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+6/30/2014,30,June,2014,32,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,598,540,1138
+6/30/2016,30,June,2016,32,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,647,585,1232
+2/28/2014,28,February,2014,36,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,1089,675,1764
+2/28/2016,28,February,2016,36,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,1162,720,1882
+5/13/2014,13,May,2014,42,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,590,360,950
+5/13/2016,13,May,2016,42,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,664,405,1069
+5/3/2014,3,May,2014,34,Young Adults (25-34),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1015,855,1870
+5/3/2016,3,May,2016,34,Young Adults (25-34),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,16,45,120,854,720,1574
+8/8/2013,8,August,2013,25,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+8/8/2015,8,August,2015,25,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+3/18/2014,18,March,2014,39,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,374,315,689
+3/18/2016,18,March,2016,39,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,481,405,886
+4/18/2014,18,April,2014,39,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,427,360,787
+4/18/2016,18,April,2016,39,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+3/1/2014,1,March,2014,30,Young Adults (25-34),Female,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,323,315,638
+3/1/2016,1,March,2016,30,Young Adults (25-34),Female,France,Yveline,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,185,180,365
+8/28/2013,28,August,2013,54,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+8/28/2015,28,August,2015,54,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+3/25/2014,25,March,2014,29,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+3/25/2016,25,March,2016,29,Young Adults (25-34),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+12/31/2013,31,December,2013,31,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,15,45,120,729,675,1404
+12/31/2015,31,December,2015,31,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,12,45,120,583,540,1123
+4/13/2014,13,April,2014,40,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+4/13/2016,13,April,2016,40,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+4/30/2014,30,April,2014,40,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,443,270,713
+4/30/2016,30,April,2016,40,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+10/3/2013,3,October,2013,25,Young Adults (25-34),Male,France,Essonne,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,491,315,806
+10/3/2015,3,October,2015,25,Young Adults (25-34),Male,France,Essonne,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,491,315,806
+2/28/2014,28,February,2014,22,Youth (<25),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,160,135,295
+2/28/2016,28,February,2016,22,Youth (<25),Female,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,160,135,295
+5/5/2014,5,May,2014,34,Young Adults (25-34),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,369,225,594
+5/5/2016,5,May,2016,34,Young Adults (25-34),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,517,315,832
+1/27/2014,27,January,2014,33,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,149,135,284
+1/27/2016,27,January,2016,33,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,50,45,95
+10/23/2013,23,October,2013,62,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+10/23/2015,23,October,2015,62,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,653,405,1058
+6/5/2014,5,June,2014,42,Adults (35-64),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+6/5/2016,5,June,2016,42,Adults (35-64),Male,France,Seine (Paris),Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,267,225,492
+11/21/2013,21,November,2013,47,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,562,360,922
+11/21/2015,21,November,2015,47,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,491,315,806
+8/25/2013,25,August,2013,26,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,221,135,356
+8/25/2015,25,August,2015,26,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,148,90,238
+1/20/2014,20,January,2014,45,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,534,450,984
+1/20/2016,20,January,2016,45,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,374,315,689
+9/19/2013,19,September,2013,22,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,119,90,209
+9/19/2015,19,September,2015,22,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,59,45,104
+11/13/2013,13,November,2013,57,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,437,405,842
+11/13/2015,13,November,2015,57,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+5/3/2014,3,May,2014,49,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+5/3/2016,3,May,2016,49,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+7/4/2014,4,July,2014,61,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+7/4/2016,4,July,2016,61,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,97,90,187
+9/18/2013,18,September,2013,40,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+9/18/2015,18,September,2015,40,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+4/10/2014,10,April,2014,40,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+4/10/2016,10,April,2016,40,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+3/9/2014,9,March,2014,38,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+3/9/2016,9,March,2016,38,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+5/5/2014,5,May,2014,38,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+5/5/2016,5,May,2016,38,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+6/16/2014,16,June,2014,56,Adults (35-64),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,22,45,120,1624,990,2614
+6/16/2016,16,June,2016,56,Adults (35-64),Male,Germany,Bayern,Accessories,Bike Racks,Hitch Rack - 4-Bike,20,45,120,1476,900,2376
+4/23/2014,23,April,2014,36,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,632,585,1217
+4/23/2016,23,April,2016,36,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,13,45,120,632,585,1217
+10/2/2013,2,October,2013,37,Adults (35-64),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+10/2/2015,2,October,2015,37,Adults (35-64),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+8/18/2013,18,August,2013,43,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+8/18/2015,18,August,2015,43,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+9/8/2013,8,September,2013,44,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,140,90,230
+9/8/2015,8,September,2015,44,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+9/3/2013,3,September,2013,45,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,351,225,576
+9/3/2015,3,September,2015,45,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+8/23/2013,23,August,2013,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,281,180,461
+8/23/2015,23,August,2015,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,70,45,115
+10/3/2013,3,October,2013,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,632,405,1037
+10/3/2015,3,October,2015,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,632,405,1037
+10/25/2013,25,October,2013,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+10/25/2015,25,October,2015,18,Youth (<25),Female,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,421,270,691
+9/14/2013,14,September,2013,45,Adults (35-64),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+9/14/2015,14,September,2015,45,Adults (35-64),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,416,315,731
+6/14/2014,14,June,2014,59,Adults (35-64),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,107,90,197
+6/14/2016,14,June,2016,59,Adults (35-64),Male,Australia,South Australia,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,53,45,98
+8/28/2013,28,August,2013,27,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,491,315,806
+8/28/2015,28,August,2015,27,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,632,405,1037
+3/4/2014,4,March,2014,39,Adults (35-64),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,398,360,758
+3/4/2016,4,March,2016,39,Adults (35-64),Female,Australia,Victoria,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,349,315,664
+1/5/2014,5,January,2014,32,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,58,45,103
+1/5/2016,5,January,2016,32,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,116,90,206
+6/24/2014,24,June,2014,35,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+6/24/2016,24,June,2016,35,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+2/21/2014,21,February,2014,17,Youth (<25),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+2/21/2016,21,February,2016,17,Youth (<25),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,292,270,562
+3/18/2014,18,March,2014,40,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,508,315,823
+3/18/2016,18,March,2016,40,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+6/5/2014,5,June,2014,40,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+6/5/2016,5,June,2016,40,Adults (35-64),Female,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,581,360,941
+11/28/2013,28,November,2013,40,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,10,45,120,486,450,936
+11/28/2015,28,November,2015,40,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,340,315,655
+6/19/2014,19,June,2014,40,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,27,45,120,1312,1215,2527
+6/19/2016,19,June,2016,40,Adults (35-64),Male,United States,Washington,Accessories,Bike Racks,Hitch Rack - 4-Bike,26,45,120,1264,1170,2434
+12/27/2013,27,December,2013,43,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+12/27/2015,27,December,2015,43,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+2/4/2014,4,February,2014,48,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,349,270,619
+2/4/2016,4,February,2016,48,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,8,45,120,466,360,826
+5/22/2014,22,May,2014,48,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,19,45,120,1106,855,1961
+5/22/2016,22,May,2016,48,Adults (35-64),Male,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,18,45,120,1048,810,1858
+10/20/2013,20,October,2013,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+10/20/2015,20,October,2015,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,6,45,120,436,270,706
+11/24/2013,24,November,2013,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,145,90,235
+11/24/2015,24,November,2015,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,1,45,120,73,45,118
+2/1/2014,1,February,2014,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+2/1/2016,1,February,2016,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,290,180,470
+6/3/2014,3,June,2014,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,5,45,120,363,225,588
+6/3/2016,3,June,2016,41,Adults (35-64),Male,United States,California,Accessories,Bike Racks,Hitch Rack - 4-Bike,3,45,120,218,135,353
+10/3/2013,3,October,2013,34,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,9,45,120,524,405,929
+10/3/2015,3,October,2015,34,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,7,45,120,407,315,722
+5/16/2014,16,May,2014,34,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,233,180,413
+5/16/2016,16,May,2016,34,Young Adults (25-34),Female,United States,Oregon,Accessories,Bike Racks,Hitch Rack - 4-Bike,2,45,120,116,90,206
+10/27/2013,27,October,2013,32,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+10/27/2015,27,October,2015,32,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Racks,Hitch Rack - 4-Bike,4,45,120,238,180,418
+7/22/2013,22,July,2013,18,Youth (<25),Female,United States,California,Accessories,Bike Stands,Hitch Rack - 4-Bike,4,45,120,290,180,470
+7/22/2015,22,July,2015,18,Youth (<25),Female,United States,California,Accessories,Bike Stands,Hitch Rack - 4-Bike,3,45,120,218,135,353
+10/10/2013,10,October,2013,18,Youth (<25),Female,United States,California,Accessories,Bike Stands,Hitch Rack - 4-Bike,3,45,120,218,135,353
+10/10/2015,10,October,2015,18,Youth (<25),Female,United States,California,Accessories,Bike Stands,Hitch Rack - 4-Bike,2,45,120,145,90,235
+8/14/2013,14,August,2013,24,Youth (<25),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+8/14/2015,14,August,2015,24,Youth (<25),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+12/28/2013,28,December,2013,24,Youth (<25),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,678,413,1091
+12/28/2015,28,December,2015,24,Youth (<25),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+8/29/2013,29,August,2013,40,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,581,354,935
+8/29/2015,29,August,2015,40,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,678,413,1091
+10/9/2013,9,October,2013,35,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,298,236,534
+10/9/2015,9,October,2015,35,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,149,118,267
+3/12/2014,12,March,2014,53,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+3/12/2016,12,March,2016,53,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+1/21/2014,21,January,2014,51,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,390,354,744
+1/21/2016,21,January,2016,51,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,195,177,372
+8/11/2013,11,August,2013,50,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+8/11/2015,11,August,2015,50,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+7/12/2014,12,July,2014,50,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+7/12/2016,12,July,2016,50,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+9/5/2013,5,September,2013,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+9/5/2015,5,September,2015,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+11/25/2013,25,November,2013,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+11/25/2015,25,November,2015,47,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+2/20/2014,20,February,2014,40,Adults (35-64),Female,France,Essonne,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+2/20/2016,20,February,2016,40,Adults (35-64),Female,France,Essonne,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+11/24/2013,24,November,2013,41,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+11/24/2015,24,November,2015,41,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,1065,649,1714
+4/28/2014,28,April,2014,37,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+4/28/2016,28,April,2016,37,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+8/3/2013,3,August,2013,59,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+8/3/2015,3,August,2015,59,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,484,295,779
+9/13/2013,13,September,2013,52,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+9/13/2015,13,September,2015,52,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+1/30/2014,30,January,2014,44,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+1/30/2016,30,January,2016,44,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+8/9/2013,9,August,2013,30,Young Adults (25-34),Female,France,Val d'Oise,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,333,295,628
+8/9/2015,9,August,2015,30,Young Adults (25-34),Female,France,Val d'Oise,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,133,118,251
+10/11/2013,11,October,2013,33,Young Adults (25-34),Male,France,Moselle,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,324,236,560
+10/11/2015,11,October,2015,33,Young Adults (25-34),Male,France,Moselle,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,324,236,560
+9/8/2013,8,September,2013,38,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+9/8/2015,8,September,2015,38,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+12/19/2013,19,December,2013,38,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+12/19/2015,19,December,2015,38,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,1083,649,1732
+8/24/2013,24,August,2013,38,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,194,118,312
+8/24/2015,24,August,2015,38,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+4/6/2014,6,April,2014,38,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,581,354,935
+4/6/2016,6,April,2016,38,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+9/12/2013,12,September,2013,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,671,531,1202
+9/12/2015,12,September,2015,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,746,590,1336
+5/13/2014,13,May,2014,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,522,413,935
+5/13/2016,13,May,2016,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,447,354,801
+7/26/2014,26,July,2014,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+7/26/2016,26,July,2016,31,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+12/5/2013,5,December,2013,24,Youth (<25),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+12/5/2015,5,December,2015,24,Youth (<25),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,484,295,779
+11/10/2013,10,November,2013,25,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+11/10/2015,10,November,2015,25,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+9/27/2013,27,September,2013,28,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+9/27/2015,27,September,2015,28,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+3/25/2014,25,March,2014,28,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+3/25/2016,25,March,2016,28,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+7/14/2014,14,July,2014,33,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+7/14/2016,14,July,2016,33,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+11/17/2013,17,November,2013,36,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,130,118,248
+11/17/2015,17,November,2015,36,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,260,236,496
+12/19/2013,19,December,2013,30,Young Adults (25-34),Female,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,133,118,251
+12/19/2015,19,December,2015,30,Young Adults (25-34),Female,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,67,59,126
+9/10/2013,10,September,2013,34,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,650,590,1240
+9/10/2015,10,September,2015,34,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,585,531,1116
+8/17/2013,17,August,2013,36,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,749,472,1221
+8/17/2015,17,August,2015,36,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+5/4/2014,4,May,2014,24,Youth (<25),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,317,236,553
+5/4/2016,4,May,2016,24,Youth (<25),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+3/21/2014,21,March,2014,26,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+3/21/2016,21,March,2016,26,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+2/21/2014,21,February,2014,33,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+2/21/2016,21,February,2016,33,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,281,177,458
+12/19/2013,19,December,2013,19,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,843,531,1374
+12/19/2015,19,December,2015,19,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,936,590,1526
+10/15/2013,15,October,2013,57,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,585,531,1116
+10/15/2015,15,October,2015,57,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,585,531,1116
+10/25/2013,25,October,2013,23,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+10/25/2015,25,October,2015,23,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+5/31/2014,31,May,2014,24,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+5/31/2016,31,May,2016,24,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+7/24/2014,24,July,2014,25,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+7/24/2016,24,July,2016,25,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,159,118,277
+6/15/2014,15,June,2014,25,Young Adults (25-34),Male,Australia,South Australia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,714,590,1304
+6/15/2016,15,June,2016,25,Young Adults (25-34),Male,Australia,South Australia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,714,590,1304
+7/6/2014,6,July,2014,26,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,671,531,1202
+7/6/2016,6,July,2016,26,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,746,590,1336
+11/11/2013,11,November,2013,26,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+11/11/2015,11,November,2015,26,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+11/13/2013,13,November,2013,26,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,476,354,830
+11/13/2015,13,November,2015,26,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,317,236,553
+4/3/2014,3,April,2014,37,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+4/3/2016,3,April,2016,37,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+8/29/2013,29,August,2013,30,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+8/29/2015,29,August,2015,30,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+2/7/2014,7,February,2014,30,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+2/7/2016,7,February,2016,30,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,317,236,553
+11/5/2013,5,November,2013,32,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,555,413,968
+11/5/2015,5,November,2015,32,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+5/22/2014,22,May,2014,31,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+5/22/2016,22,May,2016,31,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+7/23/2014,23,July,2014,44,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+7/23/2016,23,July,2016,44,Adults (35-64),Female,Australia,South Australia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,143,118,261
+10/3/2013,3,October,2013,51,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+10/3/2015,3,October,2015,51,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+11/15/2013,15,November,2013,64,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+11/15/2015,15,November,2015,64,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+12/8/2013,8,December,2013,55,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+12/8/2015,8,December,2015,55,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+5/10/2014,10,May,2014,52,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+5/10/2016,10,May,2016,52,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,1065,649,1714
+12/26/2013,26,December,2013,43,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+12/26/2015,26,December,2015,43,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+3/17/2014,17,March,2014,54,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,187,118,305
+3/17/2016,17,March,2016,54,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+4/28/2014,28,April,2014,24,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,655,413,1068
+4/28/2016,28,April,2016,24,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,749,472,1221
+2/13/2014,13,February,2014,63,Adults (35-64),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+2/13/2016,13,February,2016,63,Adults (35-64),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,143,118,261
+10/4/2013,4,October,2013,33,Young Adults (25-34),Male,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,889,590,1479
+10/4/2015,4,October,2015,33,Young Adults (25-34),Male,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,978,649,1627
+5/3/2014,3,May,2014,20,Youth (<25),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,143,118,261
+5/3/2016,3,May,2016,20,Youth (<25),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+7/12/2014,12,July,2014,20,Youth (<25),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+7/12/2016,12,July,2016,20,Youth (<25),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+2/18/2014,18,February,2014,42,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,476,354,830
+2/18/2016,18,February,2016,42,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+6/1/2014,1,June,2014,37,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,533,472,1005
+6/1/2016,1,June,2016,37,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,466,413,879
+8/12/2013,12,August,2013,60,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,149,118,267
+8/12/2015,12,August,2015,60,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+3/17/2014,17,March,2014,58,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+3/17/2016,17,March,2016,58,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+5/17/2014,17,May,2014,28,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,936,590,1526
+5/17/2016,17,May,2016,28,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,936,590,1526
+4/11/2014,11,April,2014,28,Young Adults (25-34),Female,Germany,Bayern,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+4/11/2016,11,April,2016,28,Young Adults (25-34),Female,Germany,Bayern,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,394,236,630
+12/19/2013,19,December,2013,22,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+12/19/2015,19,December,2015,22,Youth (<25),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,555,413,968
+1/26/2014,26,January,2014,30,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,200,177,377
+1/26/2016,26,January,2016,30,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,266,236,502
+8/23/2013,23,August,2013,36,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,555,413,968
+8/23/2015,23,August,2015,36,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,476,354,830
+2/19/2014,19,February,2014,36,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+2/19/2016,19,February,2016,36,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+9/19/2013,19,September,2013,37,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,596,472,1068
+9/19/2015,19,September,2015,37,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,522,413,935
+12/7/2013,7,December,2013,45,Adults (35-64),Female,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,389,295,684
+12/7/2015,7,December,2015,45,Adults (35-64),Female,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,155,118,273
+11/24/2013,24,November,2013,33,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+11/24/2015,24,November,2015,33,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+1/28/2014,28,January,2014,36,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,678,413,1091
+1/28/2016,28,January,2016,36,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,484,295,779
+10/15/2013,15,October,2013,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,94,59,153
+10/15/2015,15,October,2015,35,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,94,59,153
+10/19/2013,19,October,2013,26,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+10/19/2015,19,October,2015,26,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+8/5/2013,5,August,2013,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+8/5/2015,5,August,2015,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,130,118,248
+7/26/2014,26,July,2014,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+7/26/2016,26,July,2016,28,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+4/15/2014,15,April,2014,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,197,118,315
+4/15/2016,15,April,2016,33,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+12/9/2013,9,December,2013,30,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+12/9/2015,9,December,2015,30,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+6/29/2014,29,June,2014,44,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+6/29/2016,29,June,2016,44,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+9/4/2013,4,September,2013,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+9/4/2015,4,September,2015,46,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+6/3/2014,3,June,2014,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+6/3/2016,3,June,2016,41,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+3/22/2014,22,March,2014,41,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,390,354,744
+3/22/2016,22,March,2016,41,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,260,236,496
+5/29/2014,29,May,2014,31,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+5/29/2016,29,May,2016,31,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+3/9/2014,9,March,2014,46,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,476,354,830
+3/9/2016,9,March,2016,46,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+1/24/2014,24,January,2014,44,Adults (35-64),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+1/24/2016,24,January,2016,44,Adults (35-64),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+2/14/2014,14,February,2014,49,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+2/14/2016,14,February,2016,49,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,678,413,1091
+6/5/2014,5,June,2014,39,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,843,531,1374
+6/5/2016,5,June,2016,39,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+6/26/2014,26,June,2014,39,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,281,177,458
+6/26/2016,26,June,2016,39,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,187,118,305
+4/12/2014,12,April,2014,27,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+4/12/2016,12,April,2016,27,Young Adults (25-34),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,295,177,472
+4/27/2014,27,April,2014,29,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,466,413,879
+4/27/2016,27,April,2016,29,Young Adults (25-34),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,400,354,754
+12/29/2013,29,December,2013,44,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,357,295,652
+12/29/2015,29,December,2015,44,Adults (35-64),Male,France,Seine Saint Denis,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,286,236,522
+6/18/2014,18,June,2014,56,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+6/18/2016,18,June,2016,56,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+12/13/2013,13,December,2013,58,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,666,590,1256
+12/13/2015,13,December,2015,58,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,666,590,1256
+1/13/2014,13,January,2014,46,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+1/13/2016,13,January,2016,46,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+1/23/2014,23,January,2014,34,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,581,354,935
+1/23/2016,23,January,2016,34,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,581,354,935
+6/22/2014,22,June,2014,34,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+6/22/2016,22,June,2016,34,Young Adults (25-34),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+8/24/2013,24,August,2013,37,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,195,177,372
+8/24/2015,24,August,2015,37,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+3/21/2014,21,March,2014,37,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,455,413,868
+3/21/2016,21,March,2016,37,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,390,354,744
+3/14/2014,14,March,2014,59,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,455,413,868
+3/14/2016,14,March,2016,59,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,260,236,496
+4/14/2014,14,April,2014,26,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,466,354,820
+4/14/2016,14,April,2016,26,Young Adults (25-34),Male,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,622,472,1094
+11/21/2013,21,November,2013,30,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,492,295,787
+11/21/2015,21,November,2015,30,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+4/23/2014,23,April,2014,35,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+4/23/2016,23,April,2016,35,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,1065,649,1714
+10/19/2013,19,October,2013,30,Young Adults (25-34),Female,France,Seine Saint Denis,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+10/19/2015,19,October,2015,30,Young Adults (25-34),Female,France,Seine Saint Denis,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,71,59,130
+5/25/2014,25,May,2014,84,Seniors (64+),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+5/25/2016,25,May,2016,84,Seniors (64+),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+8/4/2013,4,August,2013,30,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+8/4/2015,4,August,2015,30,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+4/24/2014,24,April,2014,36,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,178,118,296
+4/24/2016,24,April,2016,36,Adults (35-64),Female,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,89,59,148
+2/15/2014,15,February,2014,44,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+2/15/2016,15,February,2016,44,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+10/5/2013,5,October,2013,23,Youth (<25),Male,Australia,Tasmania,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,628,531,1159
+10/5/2015,5,October,2015,23,Youth (<25),Male,Australia,Tasmania,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,768,649,1417
+9/8/2013,8,September,2013,32,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,447,354,801
+9/8/2015,8,September,2015,32,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,447,354,801
+11/18/2013,18,November,2013,33,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,596,472,1068
+11/18/2015,18,November,2015,33,Young Adults (25-34),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,447,354,801
+11/12/2013,12,November,2013,31,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,555,413,968
+11/12/2015,12,November,2015,31,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+6/25/2014,25,June,2014,31,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+6/25/2016,25,June,2016,31,Young Adults (25-34),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+11/28/2013,28,November,2013,49,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,585,531,1116
+11/28/2015,28,November,2015,49,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,390,354,744
+8/1/2013,1,August,2013,34,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,159,118,277
+8/1/2015,1,August,2015,34,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,317,236,553
+8/3/2013,3,August,2013,34,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+8/3/2015,3,August,2015,34,Young Adults (25-34),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+8/16/2013,16,August,2013,51,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,596,472,1068
+8/16/2015,16,August,2015,51,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,596,472,1068
+7/23/2014,23,July,2014,51,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+7/23/2016,23,July,2016,51,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,224,177,401
+1/6/2014,6,January,2014,34,Young Adults (25-34),Male,France,Loiret,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,495,354,849
+1/6/2016,6,January,2016,34,Young Adults (25-34),Male,France,Loiret,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,495,354,849
+12/2/2013,2,December,2013,34,Young Adults (25-34),Male,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,533,354,887
+12/2/2015,2,December,2015,34,Young Adults (25-34),Male,Germany,Hessen,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,444,295,739
+10/3/2013,3,October,2013,22,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+10/3/2015,3,October,2015,22,Youth (<25),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,375,236,611
+11/13/2013,13,November,2013,23,Youth (<25),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,655,413,1068
+11/13/2015,13,November,2015,23,Youth (<25),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,468,295,763
+11/18/2013,18,November,2013,35,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,143,118,261
+11/18/2015,18,November,2015,35,Adults (35-64),Male,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,71,59,130
+4/19/2014,19,April,2014,32,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+4/19/2016,19,April,2016,32,Young Adults (25-34),Male,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+4/3/2014,3,April,2014,18,Youth (<25),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,476,354,830
+4/3/2016,3,April,2016,18,Youth (<25),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+12/31/2013,31,December,2013,24,Youth (<25),Male,France,Hauts de Seine,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,889,590,1479
+12/31/2015,31,December,2015,24,Youth (<25),Male,France,Hauts de Seine,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,622,413,1035
+2/4/2014,4,February,2014,39,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+2/4/2016,4,February,2016,39,Adults (35-64),Female,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+8/18/2013,18,August,2013,26,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,793,590,1383
+8/18/2015,18,August,2015,26,Young Adults (25-34),Female,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,555,413,968
+6/15/2014,15,June,2014,61,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+6/15/2016,15,June,2016,61,Adults (35-64),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,968,590,1558
+9/15/2013,15,September,2013,24,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+9/15/2015,15,September,2015,24,Youth (<25),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,984,590,1574
+5/4/2014,4,May,2014,40,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,394,236,630
+5/4/2016,4,May,2016,40,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,295,177,472
+8/1/2013,1,August,2013,34,Young Adults (25-34),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,428,354,782
+8/1/2015,1,August,2015,34,Young Adults (25-34),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,500,413,913
+11/10/2013,10,November,2013,34,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,224,177,401
+11/10/2015,10,November,2015,34,Young Adults (25-34),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,75,59,134
+12/24/2013,24,December,2013,25,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,455,413,868
+12/24/2015,24,December,2015,25,Young Adults (25-34),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,325,295,620
+5/14/2014,14,May,2014,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,590,354,944
+5/14/2016,14,May,2016,29,Young Adults (25-34),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,787,472,1259
+3/13/2014,13,March,2014,51,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,400,354,754
+3/13/2016,13,March,2016,51,Adults (35-64),Male,Australia,Victoria,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,533,472,1005
+12/20/2013,20,December,2013,35,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+12/20/2015,20,December,2015,35,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,484,295,779
+7/20/2013,20,July,2013,34,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,387,236,623
+7/20/2015,20,July,2015,34,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+10/13/2013,13,October,2013,25,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,281,177,458
+10/13/2015,13,October,2015,25,Young Adults (25-34),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,281,177,458
+9/13/2013,13,September,2013,25,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,187,118,305
+9/13/2015,13,September,2015,25,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,94,59,153
+5/29/2014,29,May,2014,25,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,749,472,1221
+5/29/2016,29,May,2016,25,Young Adults (25-34),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,936,590,1526
+2/9/2014,9,February,2014,25,Young Adults (25-34),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,397,295,692
+2/9/2016,9,February,2016,25,Young Adults (25-34),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+5/14/2014,14,May,2014,20,Youth (<25),Female,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,71,59,130
+5/14/2016,14,May,2016,20,Youth (<25),Female,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,71,59,130
+8/10/2013,10,August,2013,21,Youth (<25),Female,France,Yveline,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,433,413,846
+8/10/2015,10,August,2015,21,Youth (<25),Female,France,Yveline,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,309,295,604
+5/21/2014,21,May,2014,23,Youth (<25),Male,France,Seine et Marne,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,428,354,782
+5/21/2016,21,May,2016,23,Youth (<25),Male,France,Seine et Marne,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+3/9/2014,9,March,2014,59,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,562,354,916
+3/9/2016,9,March,2016,59,Adults (35-64),Female,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,749,472,1221
+5/27/2014,27,May,2014,50,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,689,413,1102
+5/27/2016,27,May,2016,50,Adults (35-64),Female,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,886,531,1417
+11/3/2013,3,November,2013,40,Adults (35-64),Male,France,Val de Marne,Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,666,590,1256
+11/3/2015,3,November,2015,40,Adults (35-64),Male,France,Val de Marne,Accessories,Bike Stands,All-Purpose Bike Stand,12,59,159,799,708,1507
+1/25/2014,25,January,2014,43,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,187,118,305
+1/25/2016,25,January,2016,43,Adults (35-64),Male,United Kingdom,England,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,187,118,305
+4/23/2014,23,April,2014,36,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,447,354,801
+4/23/2016,23,April,2016,36,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,596,472,1068
+2/27/2014,27,February,2014,56,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+2/27/2016,27,February,2016,56,Adults (35-64),Male,Canada,British Columbia,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,98,59,157
+11/19/2013,19,November,2013,21,Youth (<25),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,678,413,1091
+11/19/2015,19,November,2015,21,Youth (<25),Male,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+2/13/2014,13,February,2014,39,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,522,413,935
+2/13/2016,13,February,2016,39,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,671,531,1202
+10/30/2013,30,October,2013,31,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+10/30/2015,30,October,2015,31,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+12/28/2013,28,December,2013,31,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,194,118,312
+12/28/2015,28,December,2015,31,Young Adults (25-34),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,97,59,156
+4/15/2014,15,April,2014,30,Young Adults (25-34),Male,France,Loiret,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,495,354,849
+4/15/2016,15,April,2016,30,Young Adults (25-34),Male,France,Loiret,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,413,295,708
+7/1/2013,1,July,2013,37,Adults (35-64),Male,France,Nord,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+7/1/2015,1,July,2015,37,Adults (35-64),Male,France,Nord,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+4/4/2014,4,April,2014,21,Youth (<25),Female,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,571,472,1043
+4/4/2016,4,April,2016,21,Youth (<25),Female,France,Seine (Paris),Accessories,Bike Stands,All-Purpose Bike Stand,10,59,159,714,590,1304
+5/26/2014,26,May,2014,22,Youth (<25),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+5/26/2016,26,May,2016,22,Youth (<25),Male,Germany,Nordrhein-Westfalen,Accessories,Bike Stands,All-Purpose Bike Stand,11,59,159,873,649,1522
+1/30/2014,30,January,2014,50,Adults (35-64),Female,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,233,177,410
+1/30/2016,30,January,2016,50,Adults (35-64),Female,United States,Oregon,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,78,59,137
+3/15/2014,15,March,2014,50,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,195,177,372
+3/15/2016,15,March,2016,50,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,325,295,620
+5/1/2014,1,May,2014,47,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,260,236,496
+5/1/2016,1,May,2016,47,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+12/7/2013,7,December,2013,46,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,195,177,372
+12/7/2015,7,December,2015,46,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+10/23/2013,23,October,2013,46,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,775,472,1247
+10/23/2015,23,October,2015,46,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,871,531,1402
+10/26/2013,26,October,2013,46,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+10/26/2015,26,October,2015,46,Adults (35-64),Female,United States,California,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,290,177,467
+7/24/2013,24,July,2013,44,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,224,177,401
+7/24/2015,24,July,2015,44,Adults (35-64),Female,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,224,177,401
+1/30/2014,30,January,2014,50,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,8,59,159,635,472,1107
+1/30/2016,30,January,2016,50,Adults (35-64),Male,Australia,New South Wales,Accessories,Bike Stands,All-Purpose Bike Stand,9,59,159,714,531,1245
+4/20/2014,20,April,2014,24,Youth (<25),Male,France,Nord,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,238,177,415
+4/20/2016,20,April,2016,24,Youth (<25),Male,France,Nord,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,79,59,138
+10/10/2013,10,October,2013,48,Adults (35-64),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,357,295,652
+10/10/2015,10,October,2015,48,Adults (35-64),Female,Germany,Saarland,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,214,177,391
+3/29/2014,29,March,2014,58,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,6,59,159,390,354,744
+3/29/2016,29,March,2016,58,Adults (35-64),Male,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,5,59,159,325,295,620
+9/22/2013,22,September,2013,52,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,2,59,159,130,118,248
+9/22/2015,22,September,2015,52,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+12/3/2013,3,December,2013,44,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,7,59,159,522,413,935
+12/3/2015,3,December,2015,44,Adults (35-64),Male,Australia,Queensland,Accessories,Bike Stands,All-Purpose Bike Stand,4,59,159,298,236,534
+5/10/2014,10,May,2014,35,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,1,59,159,65,59,124
+5/10/2016,10,May,2016,35,Adults (35-64),Female,United States,Washington,Accessories,Bike Stands,All-Purpose Bike Stand,3,59,159,195,177,372
